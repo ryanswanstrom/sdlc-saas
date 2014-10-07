@@ -1,4 +1,4 @@
-sdlc-saas
+Software Development Life Cycle - Software as a Service
 =========
 
 A list of useful SaaS products for the software development lifecycle
