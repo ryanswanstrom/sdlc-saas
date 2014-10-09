@@ -22,6 +22,9 @@ A list of useful SaaS products for the software development lifecycle
 
 ## Testing
 
+* [Lighthouse](https://lighthouseapp.com/)
+* [JIRA](https://www.atlassian.com/software/jira)
+
 ## Deployment
 * [Heroku](https://www.heroku.com)
 
