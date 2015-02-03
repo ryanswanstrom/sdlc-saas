@@ -10,21 +10,21 @@ A list of useful SaaS products for the software development lifecycle
 ## Development
 
 ### Version Control
-* [GitHub](https://github.com)
 * [BitBucket](https://bitbucket.com)
+* [GitHub](https://github.com)
 
 
 ### Continuous Integration
 
-* [CircleCI](https://circleci.com/)
-* [TravisCI](https://travis-ci.com/)
-* [Codeship](https://codeship.io)
 * [BuildBox](https://buildbox.io)
+* [CircleCI](https://circleci.com/)
+* [Codeship](https://codeship.io)
+* [TravisCI](https://travis-ci.com/)
 
 ## Testing
 
-* [Lighthouse](https://lighthouseapp.com/)
 * [JIRA](https://www.atlassian.com/software/jira)
+* [Lighthouse](https://lighthouseapp.com/)
 
 ## Deployment
 * [Heroku](https://www.heroku.com)
